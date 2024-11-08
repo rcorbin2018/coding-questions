@@ -1,0 +1,2 @@
+gcc -o hashtable hashtable.c
+./hashtable
