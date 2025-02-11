@@ -1,2 +1,5 @@
 HackerRank explanation:
 https://www.youtube.com/watch?v=zaBhtODEL0w
+
+gcc -o dfs dfs.c
+./dfs
